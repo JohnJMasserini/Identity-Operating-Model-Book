@@ -1,0 +1,79 @@
+name: Suggest an Update
+description: Flag something in "Building the Enterprise Identity Operating Model" that's changed since publication (not a factual error in the text itself)
+title: "[Update] "
+labels: ["update", "reported"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for things that were correct when the book was written
+        but have since changed — a new tool or vendor worth mentioning, a
+        vendor that's been acquired or renamed, a new regulation or
+        framework, or similar drift. If the book is factually wrong as
+        written, use the **Errata Report** template instead.
+
+  - type: input
+    id: location
+    attributes:
+      label: Related chapter/section
+      description: Which chapter, section, or page this relates to (check the copyright page for edition/printing if relevant).
+      placeholder: "Chapter 12: Emerging Standards, p. 483"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of update
+      options:
+        - New solution or vendor worth covering
+        - Vendor acquired, merged, or renamed
+        - New regulation or framework
+        - Existing regulation/framework materially revised
+        - Product/standard deprecated or discontinued
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-text
+    attributes:
+      label: What the book currently says
+      description: Quote the relevant text, or summarize what's covered there now.
+    validations:
+      required: true
+
+  - type: textarea
+    id: whats-changed
+    attributes:
+      label: What's changed since publication
+      description: Explain the update — e.g. the acquisition, the new regulation, the new vendor/tool and why it's relevant.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested-update
+    attributes:
+      label: Suggested update text
+      description: If you have language in mind for the Post-Publication Updates page, include it here. Optional.
+    validations:
+      required: false
+
+  - type: input
+    id: source
+    attributes:
+      label: Source / reference link
+      description: A link backing this up (press release, regulatory text, vendor announcement, etc.) helps this get confirmed faster.
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I checked the Post-Publication Updates page/wiki and existing issues for this already
+          required: true
+        - label: This is a change since publication, not a factual error in the original text (if it's an error, please use the Errata Report template instead)
+          required: true

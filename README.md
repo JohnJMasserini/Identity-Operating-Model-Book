@@ -17,7 +17,7 @@ It exists for two purposes:
 
 | I want to... | Go to |
 |---|---|
-| See known corrections | [`ERRATA.md`](ERRATA.md) |
+| See known corrections | [`ERRATA Wiki`](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/wiki) |
 | Report a new error | Open an [Errata Report issue](../../issues/new?template=errata_report.yml) |
 | Understand how corrections get reviewed and merged | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
 

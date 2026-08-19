@@ -1,4 +1,5 @@
-# Building the Enterprise Identity Operating Model — Errata & Updates
+# Building the Enterprise Identity Operating Model
+## Errata & Updates
 
 This repository is the official errata and updates tracker for *Building the
 Enterprise Identity Operating Model: A Framework for Identity Governance,

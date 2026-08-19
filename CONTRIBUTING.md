@@ -5,8 +5,8 @@ turns into a fix.
 
 ## 1. Search first
 
-Check [`ERRATA.md`](ERRATA.md) and the [open/closed issues](../../issues)
-before filing — someone may have already reported it, in which case a 👍
+Check the Wiki for confirmed corrections and updates, and the [open/closed issues](../../issues)
+page before filing a new errata. If someone has already reported it, in which case, a 👍
 on the existing issue is more useful than a duplicate.
 
 ## 2. Open an Errata Report issue
@@ -34,7 +34,7 @@ Reports move through this process:
    copy and agrees it's an error.
 3. Either:
    - **Fixed in printing N** — corrected in a subsequent printing, and
-     added to `ERRATA.md`, or
+     added to the Wiki, or
    - **Won't fix** — closed with a comment explaining why (e.g., it's a
      stylistic choice, or the "error" is actually correct and the report
      was a misreading).
@@ -48,10 +48,10 @@ Reports move through this process:
 - Reports on third-party tools/products mentioned in the book that have
   simply changed since publication — file these as an "update" note
   instead of an errata report (see the Post-publication updates section
-  of `ERRATA.md`); it's not a mistake in the text, just time passing.
+  of he Wiki); it's not a mistake in the text, just time passing.
 
 ## Style for correction text
 
 Keep corrections terse and unambiguous — they should read like a copy
 edit, not a discussion. Save the reasoning/debate for the issue thread;
-`ERRATA.md` should stay skimmable.
+the Wiki should stay skimmable.

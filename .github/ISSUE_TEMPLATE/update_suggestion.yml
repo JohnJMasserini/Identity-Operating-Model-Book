@@ -6,11 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this form for things that were correct when the book was written
-        but have since changed — a new tool or vendor worth mentioning, a
-        vendor that's been acquired or renamed, a new regulation or
-        framework, or similar drift. If the book is factually wrong as
-        written, use the **Errata Report** template instead.
+        Use this form for things that were correct when the book was written but have since changed — a new tool or vendor worth mentioning, a vendor that's been acquired or renamed, a new regulation or      framework, or similar drift. If the book is factually wrong as written, use the **Errata Report** template instead.
 
   - type: input
     id: location

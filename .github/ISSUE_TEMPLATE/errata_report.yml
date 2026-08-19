@@ -1,0 +1,65 @@
+name: Errata Report
+description: Report an error in "Building the Enterprise Identity Operating Model"
+title: "[Errata] "
+labels: ["errata", "reported"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting an error. Please check the Wiki and existing
+        issues first to avoid duplicates.
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Page number, chapter/section, and edition/printing if known (check the copyright page).
+      placeholder: "p. 142, Chapter 6, 1st printing"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of error
+      options:
+        - Typo / grammar
+        - Factual error
+        - Diagram or figure
+        - Code or configuration listing
+        - Reference / citation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-text
+    attributes:
+      label: What the book currently says
+      description: Quote the exact text, or describe the figure/diagram.
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong
+      description: Explain the specific error.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested-fix
+    attributes:
+      label: Suggested correction
+      description: If you know what it should say instead.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched ERRATA.md and existing issues for this already
+          required: true

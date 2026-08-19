@@ -14,6 +14,14 @@ It exists for two purposes:
    deprecated practices, and similar drift that isn't a "mistake" so much
    as the field having moved on).
 
+## Related resources
+
+- **[Identity Maturity Calculator](https://github.com/JohnJMasserini/Identity_Maturity_Calculator)**
+  — the companion Excel-based Identity Maturity Assessment Calculator
+  (2026), referenced in Appendix B ("Identity Maturity Assessment
+  Framework"). Free, maintained in its own repo separately from this
+  errata tracker.
+
 ## Where to look
 
 | I want to... | Go to |

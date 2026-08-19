@@ -6,8 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting an error. Please check the Wiki and existing
-        issues first to avoid duplicates.
+        Thanks for reporting an error. Please check the Wiki and existing issues first to avoid duplicates.
 
   - type: input
     id: location

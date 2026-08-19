@@ -18,7 +18,7 @@ It exists for two purposes:
 | I want to... | Go to |
 |---|---|
 | See known corrections | [`ERRATA Wiki`](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/wiki) |
-| Report a new error | Open an [Errata Report issue](../../issues/new?template=errata_report.yml) |
+| Report a new error | [Report an issue](../../issues/new?template=errata_report.yml) |
 | Understand how corrections get reviewed and merged | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
 
 ## Book details
@@ -33,13 +33,7 @@ It exists for two purposes:
 | ISBN-13 (electronic) | 979-8-8688-2649-8 |
 | DOI | [10.1007/979-8-8688-2649-8](https://doi.org/10.1007/979-8-8688-2649-8) |
 | Copyright | © 2026 John J. Masserini |
-| Edition / Printing | *fill in once final print copy is in hand — e.g. 1st edition, 1st printing* |
-
-> The ISBNs/DOI above are taken from the Apress proof; double-check them
-> against your final printed/published copy before publishing this repo,
-> since proof metadata can change before release. If the book goes through
-> multiple printings, `ERRATA.md` tracks which printing each fix was
-> incorporated into (see the "Fixed in printing" column).
+| Edition / Printing | 1st edition, 1st printing |
 
 ## Reporting an error
 
@@ -52,7 +46,7 @@ report and how the review process works.
 
 ## Status legend
 
-Entries in `ERRATA.md` and in issues use a consistent status vocabulary:
+Entries in the ERRATA Wiki and in issues use a consistent status vocabulary:
 
 - **Reported** — submitted, not yet triaged.
 - **Confirmed** — the author has verified this is an actual error.

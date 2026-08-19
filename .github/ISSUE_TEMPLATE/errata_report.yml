@@ -61,5 +61,5 @@ body:
     attributes:
       label: Checklist
       options:
-        - label: I searched ERRATA.md and existing issues for this already
+        - label: I searched the Wiki and existing issues for this already
           required: true

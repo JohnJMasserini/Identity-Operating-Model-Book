@@ -1,5 +1,4 @@
 # Building the Enterprise Identity Operating Model
-## Errata & Updates
 
 This repository is the official errata and updates tracker for *Building the
 Enterprise Identity Operating Model: A Framework for Identity Governance,
@@ -15,6 +14,12 @@ It exists for two purposes:
    as the field having moved on).
 
 ## Related resources
+
+- **[Order Directly from Publisher](https://link.springer.com/book/9798868826498)**
+  — Order directly from Springer Publishing.
+
+- **[Order from Amazon.](https://www.amazon.com/dp/B0GM66HW92)**
+  — Order directly from Amazon
 
 - **[Identity Maturity Calculator](https://github.com/JohnJMasserini/Identity_Maturity_Calculator)**
   — the companion Excel-based Identity Maturity Assessment Calculator

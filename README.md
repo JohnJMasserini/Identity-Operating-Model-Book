@@ -33,7 +33,7 @@ It exists for two purposes:
 |---|:---:|
 | See known updates and corrections | [`Wiki Home`](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/wiki) |
 | Report a new error | [Report an issue](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/issues/new?template=errata_report.yml) |
-| Suggest an update| [Report an issue](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/issues/new?template=update_suggestion.yml) |
+| Suggest an update| [Suggest an update](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/issues/new?template=update_suggestion.yml) |
 | Understand how corrections get reviewed and merged | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
 
 ## Book details

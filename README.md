@@ -30,9 +30,10 @@ It exists for two purposes:
 ## Where to look
 
 | I want to... | Go to |
-|---|---|
-| See known updates and corrections | [`ERRATA Wiki`](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/wiki) |
+|---|:---:|
+| See known updates and corrections | [`Wiki Home`](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/wiki) |
 | Report a new error | [Report an issue](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/issues/new?template=errata_report.yml) |
+| Suggest an update| [Report an issue](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/issues/new?template=update_suggestion.yml) |
 | Understand how corrections get reviewed and merged | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
 
 ## Book details

@@ -31,7 +31,7 @@ It exists for two purposes:
 
 | I want to... | Go to |
 |---|---|
-| See known corrections | [`ERRATA Wiki`](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/wiki) |
+| See known updates and corrections | [`ERRATA Wiki`](https://github.com/JohnJMasserini/Identity-Operating-Model-Book/wiki) |
 | Report a new error | [Report an issue](../../issues/new?template=errata_report.yml) |
 | Understand how corrections get reviewed and merged | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
 

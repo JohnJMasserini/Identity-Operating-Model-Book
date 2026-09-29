@@ -1,6 +1,6 @@
 name: Suggest an Update
-description: Flag something in "Building the Enterprise Identity Operating Model" that's changed since publication (not a factual error in the text itself)
-title: "[Update] "
+description: Suggest an update in "Building the Enterprise Identity Operating Model" that has changed since publication (not a factual error in the text itself)
+title: "[UPDATE] "
 labels: ["update", "reported"]
 body:
   - type: markdown

@@ -15,10 +15,10 @@ It exists for two purposes:
 
 ## Related resources
 
-- **[Order Directly from Publisher](https://link.springer.com/book/9798868826498)**
-  — Order directly from Springer Publishing.
+- **[Order Directly from Publisher](https://www.awin1.com/cread.php?awinmid=26429&awinaffid=3095107&campaign=author&ued=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F979-8-8688-2649-8)**
+  — Order directly from APress/Springer Publishing.
 
-- **[Order from Amazon.](https://www.amazon.com/dp/B0GM66HW92)**
+- **[Order from Amazon](https://www.amazon.com/dp/B0GM66HW92)**
   — Order directly from Amazon
 
 - **[Identity Maturity Calculator](https://github.com/JohnJMasserini/Identity_Maturity_Calculator)**
